@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": "netcoreapp3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "netcoreapp3.1": {
+      "CppCliInterop/1.0.0": {
+        "dependencies": {
+          "ManagedLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "CppCliInterop.dll": {}
+        }
+      },
+      "ManagedLibrary/1.0.0.0": {
+        "runtime": {
+          "ManagedLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Forms.UI.XamlHost/6.1.0.0": {
+        "runtime": {
+          "Microsoft.Toolkit.Forms.UI.XamlHost.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.8"
+          }
+        }
+      },
+      "ClassLibraryUWP/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryUWP.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Win32.UI.XamlHost.Managed/6.1.0.0": {
+        "runtime": {
+          "Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.8"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Win32.UI.XamlHost/255.255.255.255": {
+        "runtime": {
+          "Microsoft.Toolkit.Win32.UI.XamlHost.winmd": {
+            "assemblyVersion": "255.255.255.255",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Microsoft.UI.Xaml.Markup/10.0.0.0": {
+        "runtime": {
+          "Microsoft.UI.Xaml.Markup.winmd": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.10011.16384"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CppCliInterop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagedLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Toolkit.Forms.UI.XamlHost/6.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryUWP/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Toolkit.Win32.UI.XamlHost.Managed/6.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Toolkit.Win32.UI.XamlHost/255.255.255.255": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.UI.Xaml.Markup/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
